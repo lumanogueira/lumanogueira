@@ -1,16 +1,17 @@
-## Hi there 👋
+# I'm Luma 👩🏻‍💻
 
-<!--
-**lumanogueira/lumanogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Marketing Coordinator at a remote-first company, currently in the middle of a full rebrand and go-to-market overhaul.
 
-Here are some ideas to get you started:
+Outside of that, I'm always experimenting — AI, prompt design, new tools — and I try to document what I learn along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Currently
+
+- Working on a full rebrand + GTM overhaul: positioning, messaging, and execution
+- Experimenting with AI and prompt design — testing what actually works vs. what's just hype
+- Documenting experiments and small projects here as I go
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lumanogueira)
