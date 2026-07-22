@@ -9,7 +9,7 @@ Outside of that, I'm always experimenting — AI, prompt design, new tools — a
 ## Currently
 
 - Working on a full rebrand + GTM overhaul: positioning, messaging, and execution
-- Experimenting with AI and prompt design — testing what actually works vs. what's just hype
+- Experimenting with AI and prompt design. Testing what actually works vs. what's just hype
 - Documenting experiments and small projects here as I go
 
 ---
