@@ -2,7 +2,7 @@
 
 Marketing Coordinator at a remote-first company, currently in the middle of a full rebrand and go-to-market overhaul.
 
-Outside of that, I'm always experimenting — AI, prompt design, new tools — and I try to document what I learn along the way.
+Outside of that, I'm always experimenting (AI, prompt design, new tools), and I try to document what I learn along the way.
 
 ---
 
